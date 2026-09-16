@@ -1,7 +1,7 @@
 // Add verified resume details here. Empty fields are intentionally hidden.
 export const profile = {
   name: 'Anita Vaghani',
-  role: 'Full Stack Developer',
+  role: 'Frontend Developer | React.js & React Native',
   email: '',
   github: 'https://github.com/anita025',
   linkedin: 'https://www.linkedin.com/in/anita-vaghani-46b3b9259/',

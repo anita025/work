@@ -20,4 +20,3 @@ Create the production site with `npm run build`. Deploy the `dist` directory to 
 Edit `src/profile.js` to add your name, email, GitHub, LinkedIn, experience, and education. No resume was supplied, so these fields intentionally remain empty. Contact actions and resume links appear only when configured. For a CV download, place your PDF at `public/resume.pdf` and set `resumeUrl` to `/resume.pdf`.
 
 The app screenshots are the original supplied images. The Bhajan Sarita card is a decorative illustration, not an actual screenshot; its website could not be inspected during development. Project app technologies, employment history, and performance metrics have not been invented.
-
